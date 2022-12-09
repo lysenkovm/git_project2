@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('What an awesome print!')
+    print('Yandexlyceum')
 def main():
     print('My first git program')
     print('Add I change it every day')
